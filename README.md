@@ -1,2 +1,37 @@
-# azure_demos
-repository for demo of various Azure services.
+# Using Azure Services for Architecting Solutions 
+Repository for understanding of various Azure services for developers.
+Core concept of azure are compute,storage,databases,integration,networking.
+this is a developer only guide so we are not touching other azure services but only requried by developers.
+
+# What Azure Offers
+* Services for Running applications also known as compute
+  1. IaaS: VM, Container Services, Container Instances, Web App for Containers, Batch, Service Fabric
+  2. PaaS: Cloud Services, Mobile app, Web App, Service fabric
+  3. LaaS: Logic apps, Functions
+* Services for Storing data
+  1. Relational Data: Azure SQL db/MYSQL db/PostgreSQL db/Maria db
+  2. Document or Unstructured Data: Cosmos DB / Azure Storage ( files, blobs, Queue, Table, Disk etc)
+  3. Data Analytics : Data warehouse / Data Lake Store
+* Services for Securing applications and data
+  1. Authentication : AD (Azure Active Directory)
+  2. Encryption ( protect data at rest) : Encryption features provided.
+  3. Store User Identities : Azure Active Directory.
+  4. Store Keys/Secrets : Key valut.
+  5. Provide TLS certificate : App Service Certificate. 
+* Services for Analysing data
+  1. TBD.
+* Services for Monitoring your applications
+* Services for Adding Intelligence to your applications
+  1. Machine Learning
+  2. Congitive Services
+  3. BOT Framework
+* Services for Event/Messaging between applications
+  1. command : azure storage queues, azure service bus queues, azure servie bus topics , azure IOT hubs, Azure Logic Apps
+  2. facts : discreet - azure event Grids , streaming - azure event hubs
+  3. mass notification : azure notification hubs
+* Services for Speeding and improving performance of the applications
+  1. Redis Cache
+  2. Traffic Manager
+  3. CDN 
+* Services for Building/Testing/Deploying
+

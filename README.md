@@ -19,8 +19,21 @@ this is a developer only guide so we are not touching other azure services but o
   4. Store Keys/Secrets : Key valut.
   5. Provide TLS certificate : App Service Certificate. 
 * Services for Analysing data
-  1. TBD.
+  1. Azure Data Factory
+  2. Azure Analysis Service
+  3. Azure Data Lake Analytics
+  4. Azure Stream Analysis
+  5. Azure Time Series Insight
+  6. Azure Data Bricks
+  7. Azure HD Insights
 * Services for Monitoring your applications
+  1. Azure Application Insights
+  2. Azure Log Analytics
+  3. Azure Network Watcher
+  4. Azure Monitor 
+  5. Azure Security Center
+  6. Azure Advisor
+  7. visual studio app center
 * Services for Adding Intelligence to your applications
   1. Machine Learning
   2. Congitive Services
@@ -34,4 +47,7 @@ this is a developer only guide so we are not touching other azure services but o
   2. Traffic Manager
   3. CDN 
 * Services for Building/Testing/Deploying
+  1. VS Team Foundation Services
+  2. VS App Center
+  3 Azure devops Projects
 

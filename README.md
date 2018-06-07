@@ -39,7 +39,7 @@ this is a developer only guide so we are not touching other azure services but o
   2. Congitive Services
   3. BOT Framework
 * Services for Event/Messaging between applications
-  1. command : azure storage queues, azure service bus queues, azure servie bus topics , azure IOT hubs, Azure Logic Apps
+  1. command : azure storage queues, <a href="https://docs.microsoft.com/en-us/azure/service-bus-messaging/"> azure service bus </a>,   <a href="https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions">azure servie bus topics</a> , <a href="https://docs.microsoft.com/en-us/azure/iot-hub/"> azure IOT hubs</a>, <a href="https://docs.microsoft.com/en-us/azure/logic-apps/"> Azure Logic Apps </a>
   2. facts : discreet - azure event Grids , streaming - azure event hubs
   3. mass notification : azure notification hubs
 * Services for Speeding and improving performance of the applications

@@ -1,5 +1,5 @@
 # Using Azure Services for Architecting Solutions 
-Repository for understanding of various Azure services for developers.
+Repository for knowing various Azure services for developers.
 Core concept of azure are compute,storage,databases,integration,networking.
 this is a developer only guide so we are not touching other azure services but only requried by developers.
 

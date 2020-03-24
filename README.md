@@ -51,4 +51,3 @@ this is a developer only guide so we are not touching other azure services but o
   1. VS Team Foundation Services
   2. VS App Center
   3 Azure devops Projects
-
